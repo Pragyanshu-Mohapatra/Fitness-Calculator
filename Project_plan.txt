@@ -1,0 +1,8 @@
+Plan for project
+----------------
+1. Authentication
+2. Show Fitness plan
+3.Taking inputs
+4. Evalutating values
+5. Print Score
+6.Feedback
