@@ -6,3 +6,19 @@ Plan for project
 4. Evalutating values
 5. Print Score
 6.Feedback
+
+Python Execution
+-------------------
+Source -> Byte code -> PVM
+
+
+Standard data type
+------------------
+
+Immutable                  Mutable
+
+Number (int,complex,float)                     
+String 
+tuples 
+
+
